@@ -1,4 +1,4 @@
-package a2;
+package othello;
 
 public class Board {
     private Position[][] board; // 2D array representing the board
