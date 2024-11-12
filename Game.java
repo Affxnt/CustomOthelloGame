@@ -1,4 +1,4 @@
-package a2;
+package othello;
 
 import java.util.Scanner;  
 import java.io.File;  // For file handling
