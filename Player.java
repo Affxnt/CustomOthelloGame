@@ -1,4 +1,4 @@
-package a2;
+package othello;
 
 public class Player {
     private String name;
